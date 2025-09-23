@@ -1,6 +1,6 @@
 {
-    "version": "V25.1",
-    "message": "1. Fix game update\n2. Fix Gather Gem \n3. Fix Alliance\n4. If automatic update fails, please visit https://hlbots.net to update manually",
+    "version": "V25.2",
+    "message": "1. Fix game update",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
