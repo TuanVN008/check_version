@@ -1,0 +1,18 @@
+{
+    "version": "V25.3",
+    "message": "1. Fix game update",
+    "shouldUpdateInfo": true,
+    "label": {
+        "update": true,
+        "text": "",
+        "row": 0,
+        "column": 0
+    },
+    "link": {
+        "update": true,
+        "text": "HLBOTS.NET",
+        "url": "https://hlbots.net",
+        "row": 0,
+        "column": 1
+    }
+}
